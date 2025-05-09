@@ -13,7 +13,7 @@ html, body {
     margin-top: auto;
   }
 body {
-    background-color: #FFF8EC; 
+    background-color: c; 
     font-family: 'Nunito', sans-serif;
     color: #4B4B4B; 
     margin: 0;
@@ -195,7 +195,7 @@ body {
   }
   
   #countdown {
-    background-color: #FFF8EC;
+    background-color: #fff0c2;
     padding: 40px 20px;
     text-align: center;
     padding-bottom: 80px;
@@ -323,7 +323,7 @@ body {
   
   /*new*/
   .program-highlight {
-    background: linear-gradient(135deg, #fff8ec, #fef3c7);
+    background: #fff0c2;
     padding: 60px 20px;
     text-align: center;
     font-family: 'Nunito', sans-serif;
